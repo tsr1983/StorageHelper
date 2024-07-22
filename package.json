@@ -1,0 +1,19 @@
+{
+  "name": "@tsr1983/storagehelper",
+  "version": "1.0.3",
+  "description": "Save and load your project settings easy",
+  "main": "dist/storagehelper.js",
+  "types": "dist/storagehelper.d.ts",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "typescript": "^5.5.3"
+  }
+}
