@@ -1,6 +1,6 @@
 {
   "name": "@tsr1983/storagehelper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Save and load your project settings easy",
   "main": "dist/storagehelper.js",
   "types": "dist/storagehelper.d.ts",
